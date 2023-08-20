@@ -41,7 +41,7 @@
 
 ### 4. Food App
 <img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi3/assets/113322089/6ae7f6dc-b996-4f28-b102-cfcb5b38ddc6.png" alt="Food App 1" width="200"/>
-<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi3/assets/113322089/4697067f-a214-4900-857b-1ae35d9cddd5.png" alt="Food App 2" width="200"/>
+<img src="https://github.com/nptruong01/Flutter_ThucHanh_Buoi3/assets/113322089/4697067f-a214-4900-857b-1ae35d9cddd5.png" alt="Food App 2" height="200"/>
 
 </td>
 </tr>
